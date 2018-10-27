@@ -1,4 +1,4 @@
-﻿# Terminal Cheatsheet for Mac (Basics)
+﻿# Terminal Cheatsheet for Mac OS (Basics)
  ## basics
 
 
